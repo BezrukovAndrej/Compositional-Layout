@@ -6,3 +6,4 @@ Cделан один экран интернет магазина на Compositi
 
 ## **Использовалось**
 - No storyboard, 100% Programmatic UI
+- Compositional Layout(item, group, section) 
